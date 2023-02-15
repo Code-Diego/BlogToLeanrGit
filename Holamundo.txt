@@ -1,7 +1,7 @@
 Hola mundo
 
-Aprendidendo a usar PROFESIONALMENTE Git y GitHub
+Aprendidendo a usar profesionalmente Git y GitHub
 
-Nueva linea de codigo :000
+Implementado una nueva linea
 
 :)
